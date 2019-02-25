@@ -13,4 +13,4 @@ Instructions to use:
 3.Follow the instructions in the output window to run get the desired result.
 
 References:
-Andrew Ng Machine Learning Course Excersise 8.
+Andrew Ng Machine Learning Course Exercise 8.
